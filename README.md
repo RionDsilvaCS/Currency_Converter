@@ -13,7 +13,7 @@ While creating the project in Android Studio select as ==Empty Activity== and we
 
 
 ### Contents
----
+
 - [Currency Converter](https://github.com/RionDsilvaCS/Currency_Converter/new/master?readme=1#what-is-a-currency-converter)
 - [XML Code](https://github.com/RionDsilvaCS/Currency_Converter/new/master?readme=1#xml-code)
 - [Java Code](https://github.com/RionDsilvaCS/Currency_Converter/new/master?readme=1#java-code)
@@ -22,7 +22,7 @@ While creating the project in Android Studio select as ==Empty Activity== and we
 
 
 ## XML Code
----
+
 >activity_main.xml 
 
 Lets begin with building the interface first and than working on the logic.
@@ -133,7 +133,7 @@ This was it for the interface requirement. If you want add some more symbols and
 
 
 ## Java Code
----
+
 >MainActivity.java
 
 
@@ -290,7 +290,7 @@ Now run the app and you are ==Done!== .
 
 
 ## Output Screen
----
+
 > The design may differ according to your contraints and device, Also i have added extra signs using TextView.
 
 
@@ -299,7 +299,7 @@ Now run the app and you are ==Done!== .
 
 
 ## Discription
----
+
 >The information has been fetched from [Android Developer offical website](https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwi3v4eu26T9AhXPmWYCHRMSCdUYABAAGgJzbQ&ohost=www.google.com&cid=CAESauD2YhC7e5eOBN4zTXQALsU8kaXGeZ3jU4VHsZPy0f6efdE7c8dI2yg23AsbPfRwjKzpzHK5BRpLBQq2QPPhYekluGqgpHCc1RtTHWzQ5oJe1SOpsr_M1liYG7IYhYunG3hmmvtwA96cvMM&sig=AOD64_0szIa-JPLDz2PrlTxMD4QzRoROFg&q&adurl&ved=2ahUKEwjv8oCu26T9AhUQwjgGHWtcA08Q0Qx6BAgJEAE)
 
 | Syntax | About it |
